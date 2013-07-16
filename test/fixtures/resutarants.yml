@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  category: 
+  location: MyString
+  name: MyString
+  menu: MyText
+  summary: MyText
+  chairs: 1
+
+two:
+  category: 
+  location: MyString
+  name: MyString
+  menu: MyText
+  summary: MyText
+  chairs: 1

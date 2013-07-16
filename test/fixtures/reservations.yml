@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user: 
+  restaurant: 
+  size: 1
+  time: 2013-07-16 14:22:36
+
+two:
+  user: 
+  restaurant: 
+  size: 1
+  time: 2013-07-16 14:22:36
