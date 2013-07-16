@@ -1,6 +1,6 @@
-class CreateResutarants < ActiveRecord::Migration
+class CreateRestaurants < ActiveRecord::Migration
   def change
-    create_table :resutarants do |t|
+    create_table :restaurants do |t|
       t.references :category
       t.string :location
       t.string :name
@@ -10,6 +10,6 @@ class CreateResutarants < ActiveRecord::Migration
 
       t.timestamps
     end
-    add_index :resutarants, :category_id
+    add_index :restaurants, :category_id
   end
 end
